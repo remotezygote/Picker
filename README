@@ -1,0 +1,1 @@
+This is intended to be a minimal color picker - usable as-is on any page. It has no external dependencies, even the image it needs is base64 encoded inside the script.
